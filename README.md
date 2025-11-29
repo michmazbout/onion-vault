@@ -1,4 +1,4 @@
-OnionVault 🧅🔐
+Onion Vault 🧅🔐
 
 The Stateless Identity Manager for the Tor Network.
 
@@ -13,7 +13,7 @@ The Stateless Identity Manager for the Tor Network.
 </div>
 Stop saving passwords. Start calculating them.
 
-OnionVault is a privacy-first desktop tool designed for the Dark Web. It solves two major problems: managing volatile .onion links and generating unique, complex passwords without leaving a forensic trail on your hard drive.
+Onion Vault is a privacy-first desktop tool designed for the Dark Web. It solves two major problems: managing volatile .onion links and generating unique, complex passwords without leaving a forensic trail on your hard drive.
 
 📥 Download & Install
 
@@ -25,13 +25,13 @@ Click here to download the latest .deb installer
 
 Open the file (or run sudo dpkg -i filename.deb in terminal).
 
-Launch OnionVault from your applications menu.
+Launch Onion Vault from your applications menu.
 
-🚀 Why OnionVault?
+🚀 Why Onion Vault?
 
 Most password managers store your secrets in a database file. If a hacker steals that file and cracks it, they have everything.
 
-OnionVault is different. It has no database.
+Onion Vault is different. It has no database.
 
 Instead of storing passwords, it calculates them instantly using a mathematical formula:
 

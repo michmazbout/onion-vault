@@ -9,6 +9,8 @@
   ![Tauri](https://img.shields.io/badge/tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=black)
 
 </div>
+<img width="1780" height="1506" alt="image" src="https://github.com/user-attachments/assets/14ea8225-3d09-4b10-89ab-b438406f9422" />
+<img width="1780" height="1620" alt="image" src="https://github.com/user-attachments/assets/0ee2f1da-73dd-49b6-b848-315faf438adb" />
 
 # 🚓 The Security Benefits
 
